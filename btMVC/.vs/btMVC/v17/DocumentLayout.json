@@ -1,0 +1,380 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{830EC668-77C5-49F8-BA00-949136A25546}|DataAccess.ProductNetFramework\\DataAccess.ProductNetFramework.csproj|C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\dataaccess.productnetframework\\daoimpl\\productdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830EC668-77C5-49F8-BA00-949136A25546}|DataAccess.ProductNetFramework\\DataAccess.ProductNetFramework.csproj|solutionrelative:dataaccess.productnetframework\\daoimpl\\productdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F820A29-8293-4947-89A5-3C2BEADE8F20}|btMVC\\btMVC.csproj|C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btmvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F820A29-8293-4947-89A5-3C2BEADE8F20}|btMVC\\btMVC.csproj|solutionrelative:btmvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F820A29-8293-4947-89A5-3C2BEADE8F20}|btMVC\\btMVC.csproj|C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btmvc\\views\\product\\listpartialproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F820A29-8293-4947-89A5-3C2BEADE8F20}|btMVC\\btMVC.csproj|solutionrelative:btmvc\\views\\product\\listpartialproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F820A29-8293-4947-89A5-3C2BEADE8F20}|btMVC\\btMVC.csproj|c:\\users\\v\\documents\\khoac#\\btmvc\\btmvc\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F820A29-8293-4947-89A5-3C2BEADE8F20}|btMVC\\btMVC.csproj|solutionrelative:btmvc\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F820A29-8293-4947-89A5-3C2BEADE8F20}|btMVC\\btMVC.csproj|C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btmvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F820A29-8293-4947-89A5-3C2BEADE8F20}|btMVC\\btMVC.csproj|solutionrelative:btmvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830EC668-77C5-49F8-BA00-949136A25546}|DataAccess.ProductNetFramework\\DataAccess.ProductNetFramework.csproj|C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\dataaccess.productnetframework\\dbhelper\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830EC668-77C5-49F8-BA00-949136A25546}|DataAccess.ProductNetFramework\\DataAccess.ProductNetFramework.csproj|solutionrelative:dataaccess.productnetframework\\dbhelper\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F820A29-8293-4947-89A5-3C2BEADE8F20}|btMVC\\btMVC.csproj|C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btmvc\\views\\product\\getproductbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F820A29-8293-4947-89A5-3C2BEADE8F20}|btMVC\\btMVC.csproj|solutionrelative:btmvc\\views\\product\\getproductbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F820A29-8293-4947-89A5-3C2BEADE8F20}|btMVC\\btMVC.csproj|C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F820A29-8293-4947-89A5-3C2BEADE8F20}|btMVC\\btMVC.csproj|solutionrelative:btmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F820A29-8293-4947-89A5-3C2BEADE8F20}|btMVC\\btMVC.csproj|C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F820A29-8293-4947-89A5-3C2BEADE8F20}|btMVC\\btMVC.csproj|solutionrelative:btmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830EC668-77C5-49F8-BA00-949136A25546}|DataAccess.ProductNetFramework\\DataAccess.ProductNetFramework.csproj|C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\dataaccess.productnetframework\\dao\\iproductdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830EC668-77C5-49F8-BA00-949136A25546}|DataAccess.ProductNetFramework\\DataAccess.ProductNetFramework.csproj|solutionrelative:dataaccess.productnetframework\\dao\\iproductdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830EC668-77C5-49F8-BA00-949136A25546}|DataAccess.ProductNetFramework\\DataAccess.ProductNetFramework.csproj|C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\dataaccess.productnetframework\\dao\\iproductdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830EC668-77C5-49F8-BA00-949136A25546}|DataAccess.ProductNetFramework\\DataAccess.ProductNetFramework.csproj|solutionrelative:dataaccess.productnetframework\\dao\\iproductdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830EC668-77C5-49F8-BA00-949136A25546}|DataAccess.ProductNetFramework\\DataAccess.ProductNetFramework.csproj|C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\dataaccess.productnetframework\\daoimpl\\productdetaildaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830EC668-77C5-49F8-BA00-949136A25546}|DataAccess.ProductNetFramework\\DataAccess.ProductNetFramework.csproj|solutionrelative:dataaccess.productnetframework\\daoimpl\\productdetaildaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F820A29-8293-4947-89A5-3C2BEADE8F20}|btMVC\\btMVC.csproj|C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btmvc\\models\\getlistproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F820A29-8293-4947-89A5-3C2BEADE8F20}|btMVC\\btMVC.csproj|solutionrelative:btmvc\\models\\getlistproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F820A29-8293-4947-89A5-3C2BEADE8F20}|btMVC\\btMVC.csproj|C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btmvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0F820A29-8293-4947-89A5-3C2BEADE8F20}|btMVC\\btMVC.csproj|solutionrelative:btmvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830EC668-77C5-49F8-BA00-949136A25546}|DataAccess.ProductNetFramework\\DataAccess.ProductNetFramework.csproj|C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\dataaccess.productnetframework\\dto\\returndata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830EC668-77C5-49F8-BA00-949136A25546}|DataAccess.ProductNetFramework\\DataAccess.ProductNetFramework.csproj|solutionrelative:dataaccess.productnetframework\\dto\\returndata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830EC668-77C5-49F8-BA00-949136A25546}|DataAccess.ProductNetFramework\\DataAccess.ProductNetFramework.csproj|C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\dataaccess.productnetframework\\dto\\productdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830EC668-77C5-49F8-BA00-949136A25546}|DataAccess.ProductNetFramework\\DataAccess.ProductNetFramework.csproj|solutionrelative:dataaccess.productnetframework\\dto\\productdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F820A29-8293-4947-89A5-3C2BEADE8F20}|btMVC\\btMVC.csproj|C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btmvc\\controllers\\productdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F820A29-8293-4947-89A5-3C2BEADE8F20}|btMVC\\btMVC.csproj|solutionrelative:btmvc\\controllers\\productdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F820A29-8293-4947-89A5-3C2BEADE8F20}|btMVC\\btMVC.csproj|C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btmvc\\views\\productdetail\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F820A29-8293-4947-89A5-3C2BEADE8F20}|btMVC\\btMVC.csproj|solutionrelative:btmvc\\views\\productdetail\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830EC668-77C5-49F8-BA00-949136A25546}|DataAccess.ProductNetFramework\\DataAccess.ProductNetFramework.csproj|C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\dataaccess.productnetframework\\dto\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830EC668-77C5-49F8-BA00-949136A25546}|DataAccess.ProductNetFramework\\DataAccess.ProductNetFramework.csproj|solutionrelative:dataaccess.productnetframework\\dto\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F820A29-8293-4947-89A5-3C2BEADE8F20}|btMVC\\btMVC.csproj|C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btmvc\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0F820A29-8293-4947-89A5-3C2BEADE8F20}|btMVC\\btMVC.csproj|solutionrelative:btmvc\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F820A29-8293-4947-89A5-3C2BEADE8F20}|btMVC\\btMVC.csproj|C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btmvc\\views\\shared\\_partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F820A29-8293-4947-89A5-3C2BEADE8F20}|btMVC\\btMVC.csproj|solutionrelative:btmvc\\views\\shared\\_partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830EC668-77C5-49F8-BA00-949136A25546}|DataAccess.ProductNetFramework\\DataAccess.ProductNetFramework.csproj|C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\dataaccess.productnetframework\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830EC668-77C5-49F8-BA00-949136A25546}|DataAccess.ProductNetFramework\\DataAccess.ProductNetFramework.csproj|solutionrelative:dataaccess.productnetframework\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDAOImpl.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\DataAccess.ProductNetFramework\\DAOImpl\\ProductDAOImpl.cs",
+              "RelativeDocumentMoniker": "DataAccess.ProductNetFramework\\DAOImpl\\ProductDAOImpl.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\DataAccess.ProductNetFramework\\DAOImpl\\ProductDAOImpl.cs",
+              "RelativeToolTip": "DataAccess.ProductNetFramework\\DAOImpl\\ProductDAOImpl.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAowG4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T10:01:36.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btMVC\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "btMVC\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btMVC\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "btMVC\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T14:17:23.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btMVC\\Views\\Product\\Add.cshtml",
+              "RelativeDocumentMoniker": "btMVC\\Views\\Product\\Add.cshtml",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btMVC\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "btMVC\\Views\\Product\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T16:06:56.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "listPartialProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btMVC\\Views\\Product\\listPartialProduct.cshtml",
+              "RelativeDocumentMoniker": "btMVC\\Views\\Product\\listPartialProduct.cshtml",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btMVC\\Views\\Product\\listPartialProduct.cshtml",
+              "RelativeToolTip": "btMVC\\Views\\Product\\listPartialProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T14:27:33.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetProductById.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btMVC\\Views\\Product\\GetProductById.cshtml",
+              "RelativeDocumentMoniker": "btMVC\\Views\\Product\\GetProductById.cshtml",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btMVC\\Views\\Product\\GetProductById.cshtml",
+              "RelativeToolTip": "btMVC\\Views\\Product\\GetProductById.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T10:03:06.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductDetailDAO.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\DataAccess.ProductNetFramework\\DAO\\IProductDetailDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess.ProductNetFramework\\DAO\\IProductDetailDAO.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\DataAccess.ProductNetFramework\\DAO\\IProductDetailDAO.cs",
+              "RelativeToolTip": "DataAccess.ProductNetFramework\\DAO\\IProductDetailDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T14:33:40.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btMVC\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "btMVC\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btMVC\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "btMVC\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T10:34:13.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductDAO.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\DataAccess.ProductNetFramework\\DAO\\IProductDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess.ProductNetFramework\\DAO\\IProductDAO.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\DataAccess.ProductNetFramework\\DAO\\IProductDAO.cs",
+              "RelativeToolTip": "DataAccess.ProductNetFramework\\DAO\\IProductDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T09:58:19.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\DataAccess.ProductNetFramework\\DBHelper\\DBConnection.cs",
+              "RelativeDocumentMoniker": "DataAccess.ProductNetFramework\\DBHelper\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\DataAccess.ProductNetFramework\\DBHelper\\DBConnection.cs",
+              "RelativeToolTip": "DataAccess.ProductNetFramework\\DBHelper\\DBConnection.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T09:37:21.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "btMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "btMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T17:02:30.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "btMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "btMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T16:22:16.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductDetailDAOImpl.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\DataAccess.ProductNetFramework\\DAOImpl\\ProductDetailDAOImpl.cs",
+              "RelativeDocumentMoniker": "DataAccess.ProductNetFramework\\DAOImpl\\ProductDetailDAOImpl.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\DataAccess.ProductNetFramework\\DAOImpl\\ProductDetailDAOImpl.cs",
+              "RelativeToolTip": "DataAccess.ProductNetFramework\\DAOImpl\\ProductDetailDAOImpl.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T14:36:46.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btMVC\\Web.config",
+              "RelativeDocumentMoniker": "btMVC\\Web.config",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btMVC\\Web.config",
+              "RelativeToolTip": "btMVC\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-03T14:45:04.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetListProduct.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btMVC\\Models\\GetListProduct.cs",
+              "RelativeDocumentMoniker": "btMVC\\Models\\GetListProduct.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btMVC\\Models\\GetListProduct.cs",
+              "RelativeToolTip": "btMVC\\Models\\GetListProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T14:10:00.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReturnData.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\DataAccess.ProductNetFramework\\DTO\\ReturnData.cs",
+              "RelativeDocumentMoniker": "DataAccess.ProductNetFramework\\DTO\\ReturnData.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\DataAccess.ProductNetFramework\\DTO\\ReturnData.cs",
+              "RelativeToolTip": "DataAccess.ProductNetFramework\\DTO\\ReturnData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T09:49:27.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductDetail.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\DataAccess.ProductNetFramework\\DTO\\ProductDetail.cs",
+              "RelativeDocumentMoniker": "DataAccess.ProductNetFramework\\DTO\\ProductDetail.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\DataAccess.ProductNetFramework\\DTO\\ProductDetail.cs",
+              "RelativeToolTip": "DataAccess.ProductNetFramework\\DTO\\ProductDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T14:34:22.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btMVC\\Views\\ProductDetail\\Details.cshtml",
+              "RelativeDocumentMoniker": "btMVC\\Views\\ProductDetail\\Details.cshtml",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btMVC\\Views\\ProductDetail\\Details.cshtml",
+              "RelativeToolTip": "btMVC\\Views\\ProductDetail\\Details.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T14:45:22.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btMVC\\Controllers\\ProductDetailController.cs",
+              "RelativeDocumentMoniker": "btMVC\\Controllers\\ProductDetailController.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btMVC\\Controllers\\ProductDetailController.cs",
+              "RelativeToolTip": "btMVC\\Controllers\\ProductDetailController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwBoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T14:41:28.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\DataAccess.ProductNetFramework\\DTO\\Product.cs",
+              "RelativeDocumentMoniker": "DataAccess.ProductNetFramework\\DTO\\Product.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\DataAccess.ProductNetFramework\\DTO\\Product.cs",
+              "RelativeToolTip": "DataAccess.ProductNetFramework\\DTO\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T09:42:32.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btMVC\\Views\\Web.config",
+              "RelativeDocumentMoniker": "btMVC\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btMVC\\Views\\Web.config",
+              "RelativeToolTip": "btMVC\\Views\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-03T14:43:05.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_PartialSideBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btMVC\\Views\\Shared\\_PartialSideBar.cshtml",
+              "RelativeDocumentMoniker": "btMVC\\Views\\Shared\\_PartialSideBar.cshtml",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\btMVC\\Views\\Shared\\_PartialSideBar.cshtml",
+              "RelativeToolTip": "btMVC\\Views\\Shared\\_PartialSideBar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T14:42:14.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\DataAccess.ProductNetFramework\\Class1.cs",
+              "RelativeDocumentMoniker": "DataAccess.ProductNetFramework\\Class1.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\btMVC\\DataAccess.ProductNetFramework\\Class1.cs",
+              "RelativeToolTip": "DataAccess.ProductNetFramework\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T09:35:33.834Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

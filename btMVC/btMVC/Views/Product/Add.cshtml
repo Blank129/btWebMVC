@@ -1,0 +1,88 @@
+﻿
+@{
+    ViewBag.Title = "Add";
+}
+
+@model DataAccess.ProductNetFramework.DTO.Product
+@section Naviheader{
+    <!-- Left navbar links -->
+    <ul class="navbar-nav">
+        <li class="nav-item">
+            <a class="nav-link" data-widget="pushmenu" href="#"><i class="fas fa-bars"></i></a>
+        </li>
+        <li class="nav-item d-none d-sm-inline-block">
+            <a href="../../index3.html" class="nav-link">Home</a>
+        </li>
+        <li class="nav-item d-none d-sm-inline-block">
+            <a href="#" class="nav-link">Contact</a>
+        </li>
+    </ul>
+
+    <!-- SEARCH FORM -->
+    @*ko thể tìm kiếm trên thèn <form> được nên ta chuyển sang div*@
+    <div class="form-inline ml-3">
+        <div class="input-group input-group-sm">
+            <input class="form-control form-control-navbar" type="search" placeholder="Search" aria-label="Search" id="">
+            <div class="input-group-append">
+                <button class="btn btn-navbar" id="btnSearch">
+                    <i class="fas fa-search"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+}
+
+<div id="form-group">
+    <label for="email">Tên sản phẩm</label>
+    <input type="hidden" class="form-control"  id="txtProductId" />
+    <input type="text" class="form-control"  id="txtProductNameUpdate" />
+</div>
+<div id="form-group">
+    <label for="email">Thể loại</label>
+    <input type="text" class="form-control"  id="txtProductType" />
+</div>
+<div id="form-group">
+    <label for="email">Giá sản phẩm</label>
+    <input type="text" class="form-control"  id="txtProductPrice" />
+</div>
+
+<button type="button" class="btn btn-default" id="btnSave">Thêm mới</button>
+<button type="button" class="btn btn-default" id="btnBack">Back</button>
+
+<script>
+    $(document).ready(function () {
+
+        $("#btnSave").click(function () {
+            ProductInsertUpdate()
+        })
+
+        $("#btnBack").click(function () {
+            window.location.href = "/Product"
+        })
+    });
+
+    function ProductInsertUpdate() {
+        var input_data = {
+            ProductId: $("#txtProductId").val(),
+            ProductName: $("#txtProductNameUpdate").val(),
+            ProductType: $("#txtProductType").val(),
+            Price: $("#txtProductPrice").val()
+        }
+
+        $.ajax({
+            url: '@Url.Action("Add", "Product")',
+            type: 'POST',
+            data: input_data,
+            dataType: 'json',
+            success: function (result) {
+                window.location.href = "/Product"
+                //alert("Thêm thành công")
+            },
+            error: function (data) {
+                alert('Error adding product.');
+            }
+        });
+    }
+</script>
+
+

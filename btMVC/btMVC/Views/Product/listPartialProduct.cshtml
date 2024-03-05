@@ -1,0 +1,106 @@
+﻿
+@model List<DataAccess.ProductNetFramework.DTO.Product>
+
+<!-- Content Header (Page header) -->
+<section class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1>Blank Page</h1>
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="#">Home</a></li>
+                    <li class="breadcrumb-item active">Blank Page</li>
+                </ol>
+            </div>
+        </div>
+    </div><!-- /.container-fluid -->
+</section>
+
+<!-- Main content -->
+<section class="content">
+
+    <!-- Default box -->
+    <div class="card">
+        <div class="card-header">
+            <h3 class="card-title">Title</h3>
+
+            <div class="card-tools">
+                <a href="/Product/Add" class="btn btn-primary">Thêm mới</a>
+            </div>
+
+        </div>
+        <div class="card-body">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Mã sản phẩm</th>
+                        <th>Tên sách</th>
+                        <th>Thể loại</th>
+                        <th>Giá</th>
+                        <th>hành động</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model != null && Model.Count > 0)
+                    {
+                        foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.ProductId</td>
+                                <td>@item.ProductName</td>
+                                <td>@item.ProductType</td>
+                                <td>
+                                    @item.Price
+                                </td>
+
+                                <td>
+                                    <a href="/Product/GetProductById/@item.ProductId">Sửa</a>
+                                    <button onclick="ProductDelete(@item.ProductId)">Xóa</button>
+                                    <a href="/ProductDetail/details/@item.ProductId">Hiển thị</a>
+                                </td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+        </div>
+        <!-- /.card-body -->
+        <div class="card-footer">
+            Footer
+        </div>
+        <!-- /.card-footer-->
+    </div>
+    <!-- /.card -->
+
+</section>
+<!-- /.content -->
+
+<script>
+    function ProductDelete(Id) {
+
+    var rs = confirm("Bạn có muốn xóa bản ghi này ko");
+    if (rs) { 
+        var input_data = {
+            id: Id
+            //Thèn "id" là cùng tên biến truyền vào ở bên controller
+            // trên này đang đưa dữ liệu vào biến ProductId
+            // Nhưng dưới controller lại nhận ở biến id nên dưới controller giá trị = null 
+            // clear lõi em đang gặp phải chưa 
+        }
+        
+        $.ajax({
+            url: '@Url.Action("ProductDelete", "Product")',
+            type: 'POST',
+            data: input_data,
+            success: function (result) {
+                location.reload();
+            },
+            error: function (data) {
+                alert('Error Delete');
+            }
+        });
+    }
+}
+</script>

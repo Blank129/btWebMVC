@@ -1,0 +1,6 @@
+C:\Users\V\Documents\KhoaC#\btMVC\DataAccess.ProductNetFramework\obj\Debug\DataAccess.ProductNetFramework.csproj.AssemblyReference.cache
+C:\Users\V\Documents\KhoaC#\btMVC\DataAccess.ProductNetFramework\obj\Debug\DataAccess.ProductNetFramework.csproj.CoreCompileInputs.cache
+C:\Users\V\Documents\KhoaC#\btMVC\DataAccess.ProductNetFramework\bin\Debug\DataAccess.ProductNetFramework.dll
+C:\Users\V\Documents\KhoaC#\btMVC\DataAccess.ProductNetFramework\bin\Debug\DataAccess.ProductNetFramework.pdb
+C:\Users\V\Documents\KhoaC#\btMVC\DataAccess.ProductNetFramework\obj\Debug\DataAccess.ProductNetFramework.dll
+C:\Users\V\Documents\KhoaC#\btMVC\DataAccess.ProductNetFramework\obj\Debug\DataAccess.ProductNetFramework.pdb
